@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+    {
+        "Jekyll":
+        {
+            "posts_path": "/Users/ncasares/Sites/ncasares.github.io/_posts",
+            "drafts_path": "/Users/ncasares/Sites/ncasares.github.io/_drafts",
+            "uploads_path": "/Users/ncasares/Sites/ncasares.github.io/uploads",
+            "jekyll_auto_find_paths": "true"
+        }
+    }
+}

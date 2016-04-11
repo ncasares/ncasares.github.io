@@ -15,4 +15,4 @@ I help companies uncover new opportunities in product strategy and user experien
 
 #### Interested in Working Together?
 
-Great partnerships begin with mutual understanding. While I encourage you to [view some of my work](https://www.behance.net/ncasares), I'd also recommend [getting in touch](http://mailto:ncasares@gmail.com). A conversation about your goals and aspirations is a great place to start.
+Great partnerships begin with mutual understanding. While I encourage you to [view some of my work](http://www.behance.net/ncasares), I'd also recommend [getting in touch](mailto:ncasares@gmail.com). A conversation about your goals and aspirations is a great place to start.

@@ -10,7 +10,7 @@ search_omit: true
 	<a href="http://www.behance.net/ncasares"><img src="/images/work.png" alt="Nickolaus Casares - Product Design"></a>
 </figure>
 
-Pleaes visit my [Behance profile](http://www.behance.net/ncasares) to view a sample of my product design work. If you like what you see, let's start a conversation about your next product design project.
+Pleaes visit my [Behance profile](http://www.behance.net/ncasares) to view a sample of my product design work. If you like what you see, let's [start a conversation](mailto:ncasares@gmail.com) about your next product design project.
 
 <!-- 
 <ul class="post-list">

@@ -4,7 +4,7 @@ excerpt: "A simple and clean responsive Jekyll theme for words and photos."
 search_omit: true
 ---
 
-I help companies uncover new opportunities in product strategy and user experience design. I have ten years of experience in web/interaction design for B2C and B2B digital products. 
+Hi, I'm Nick Casares and I help companies uncover new opportunities in product strategy and user experience design. I have ten years of experience in web/interaction design for B2C and B2B digital products. 
 
 #### How I Can Help:
 

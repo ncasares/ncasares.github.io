@@ -19,10 +19,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 87.0,
-		"last_filter": "install",
+		"height": 392.0,
+		"last_filter": "ym",
 		"selected_items":
 		[
+			[
+				"ym",
+				"Jekyll: Edit _config.yml"
+			],
+			[
+				"new dr",
+				"Jekyll: New draft"
+			],
+			[
+				"jek",
+				"Jekyll: Edit _config.yml"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -57,11 +69,46 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ncasares/Sites/ncasares.github.io"
+		"/Users/ncasares/Sites/ncasares.github.io",
+		"/Users/ncasares/Sites/ncasares.github.io/_sass/vendor",
+		"/Users/ncasares/Sites/ncasares.github.io/work"
 	],
 	"file_history":
 	[
+		"/Users/ncasares/Sites/ncasares.github.io/_includes/footer.html",
+		"/Users/ncasares/Sites/ncasares.github.io/_config.yml",
+		"/Users/ncasares/Sites/ncasares.github.io/work/index.md",
+		"/Users/ncasares/Sites/ncasares.github.io/index.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_data/navigation.yml",
+		"/Users/ncasares/Sites/ncasares.github.io/_includes/scripts.html",
+		"/Users/ncasares/Sites/ncasares.github.io/_sass/_base.scss",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2013-05-23-readability-feature-post.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_sass/_masthead.scss",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2015-05-01-labs.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_layouts/page.html",
+		"/Users/ncasares/Sites/ncasares.github.io/_includes/navigation.html",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2011-03-10-sample-post.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2013-08-16-code-highlighting-post.md",
+		"/Users/ncasares/Sites/ncasares.github.io/index.html",
+		"/Users/ncasares/Sites/ncasares.github.io/about/index.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2014-06-19-author-override.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2013-08-12-sample-link-post.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2013-06-25-video-post.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2013-05-22-sample-post-images.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/work/2012-05-22-readability-post.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_sass/_navigation.scss",
+		"/Users/ncasares/Sites/ncasares.github.io/articles/index.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/articles/2011-03-10-sample-post.md",
+		"/Users/ncasares/Sites/ncasares.github.io/_layouts/default.html",
+		"/Users/ncasares/Sites/ncasares.github.io/_sass/_solo.scss",
+		"/Users/ncasares/Sites/ncasares.github.io/_layouts/post.html",
+		"/Users/ncasares/Sites/ncasares.github.io/_includes/sidebar.html",
+		"/Users/ncasares/Sites/ncasares.github.io/CNAME",
+		"/Users/ncasares/Sites/ncasares.github.io/_posts/2013-12-31-whats-jekyll.md",
+		"/Users/ncasares/Sites/ncasares.github.io/portfolio.md",
+		"/Users/ncasares/Sites/ncasares.github.io/public/css/lanyon.css",
 		"/Users/ncasares/Sites/ncasares.github.io/ncasares.sublime-project",
+		"/Users/ncasares/Sites/ncasares.github.io/_drafts/test.markdown",
 		"/Users/ncasares/Google Drive/Sites/lendstreet2/pages/index.html",
 		"/Users/ncasares/Google Drive/Sites/lendstreet2/templates/base.html",
 		"/Users/ncasares/Google Drive/Sites/lendstreet2/static/css/style.css",
@@ -74,13 +121,14 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"/Users/ncasares/Sites/ncasares.github.io"
 		]
 	},
 	"find_state":
@@ -88,6 +136,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"theme",
+			"redcarpet",
+			"jekncyll",
+			"/Users/username/site/",
 			"Show details",
 			"li",
 			"Right Button Active"
@@ -186,11 +238,11 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 258.0,
+	"side_bar_width": 338.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

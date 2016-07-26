@@ -9,9 +9,9 @@ Hi, I'm Nick Casares and I help companies uncover new opportunities in product s
 #### How I Can Help:
 
 * Help companies understand the market opportunity for digital products and services
-* Work with executive teams to ensure product design goals align with businses outcomes
+* Work with executive teams to ensure product design goals align with business outcomes
 * Guide the product design strategy from ideation through go to market
-* Work with teams to foster collaborative processess and effective work habits
+* Work with teams to foster collaborative processes and effective work habits
 
 #### Interested in Working Together?
 
